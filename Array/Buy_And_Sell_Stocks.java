@@ -12,6 +12,7 @@ public class Buy_And_Sell_Stocks {
         buy_sell_stocks BSS = new buy_sell_stocks();
         int profit = BSS.max_profit(prices1);
         System.out.println(profit);
+
     }
 }
 
