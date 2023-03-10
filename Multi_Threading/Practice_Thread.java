@@ -50,6 +50,9 @@ class Hi implements Runnable {
             }
         }
     }
+
+    public void start() {
+    }
 }
 
 class Hello implements Runnable {
